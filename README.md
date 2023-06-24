@@ -1,1 +1,1 @@
-# 1.2.__NumPy_Pandas_Matplotlib
+# numpy pandas matplotlib
